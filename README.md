@@ -22,8 +22,8 @@ It is possible for these links or the text regarding versions to become out of d
   - Volume 3 - Instruction set reference (including CPUID)
   - Volume 4/5 - SIMD and floating point
 
-# AARCH64
+## AARCH64
  - [Arm Architecture Reference Manual for A-profile architecture](https://developer.arm.com/documentation/ddi0487/ja/?lang=en)
 
-# RISC-V
+## RISC-V
  - [Unprivileged and Privileged ISA](https://github.com/riscv/riscv-isa-manual)
