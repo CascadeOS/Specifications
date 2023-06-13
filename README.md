@@ -16,7 +16,7 @@ It is possible for these links or the text regarding versions to become out of d
   - Volume 2 - Instruction set reference (including CPUID)
   - Volume 3 - Operating System support environment
   - Volume 4 - Model specific registers
-- [AMD](https://www.amd.com/en/support/tech-docs?keyword=AMD64+Architecture+Programmer%27s+Manual) (the link is to a search as AMD don't provide non-PDF links for the documents)
+- [AMD](https://www.amd.com/en/support/tech-docs?keyword=AMD64+Architecture+Programmer%27s+Manual) (the link is to a search as AMD don't provide an always up to date link to the documents)
   - Volume 1 - Application Programming
   - Volume 2 - System Programming (Operating System Stuff)
   - Volume 3 - Instruction set reference (including CPUID)
