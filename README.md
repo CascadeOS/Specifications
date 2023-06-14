@@ -7,6 +7,7 @@ It is possible for these links or the text regarding versions to become out of d
 * ACPI
   * [ACPI Specification](https://uefi.org/specifications)
   * [Related documents](https://uefi.org/acpi)
+* Limine - [Limine Boot Protocol](https://github.com/limine-bootloader/limine/blob/v4.x-branch/PROTOCOL.md)
 * RISC-V - [Unprivileged and Privileged ISA](https://github.com/riscv/riscv-isa-manual)
 * System-V ABI
   * [Generic ABI (gABI)](https://www.sco.com/developers/devspecs/) latest at time of writing: Edition 4.1
