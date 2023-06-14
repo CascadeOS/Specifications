@@ -34,4 +34,4 @@ It is possible for these links or the text regarding versions to become out of d
 
 ## ACPI
  - [ACPI Specification](https://uefi.org/specifications)
- - [Related documents](https://uefi.org/acpi)https://uefi.org/acpi
+ - [Related documents](https://uefi.org/acpi)
