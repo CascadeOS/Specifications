@@ -3,7 +3,7 @@ This is intended to be a listing of all the specifications used during the const
 
 It is possible for these links or the text regarding versions to become out of date, any problems found don't hesitate to open a PR or raise an issue.
 
-## System-V ABI (ELF, DWARF, TLS, etc.)
+## System-V ABI (ELF, TLS, program loading etc.)
 - [Generic ABI (gABI)](https://www.sco.com/developers/devspecs/) latest at time of writing: Edition 4.1
 - Updates to chapter 4 and 5 of the above [Generic ABI (gABI) updates](https://www.sco.com/developers/gabi/) latest at time of writing: DRAFT 10 June 2013 (under the "Latest (in progress) snapshot" link)
 - [x86-64 psABI](https://gitlab.com/x86-psABIs/x86-64-ABI)
@@ -27,3 +27,11 @@ It is possible for these links or the text regarding versions to become out of d
 
 ## RISC-V
  - [Unprivileged and Privileged ISA](https://github.com/riscv/riscv-isa-manual)
+
+## UEFI
+ - [UEFI Specification](https://uefi.org/specifications)
+ - [Related documents](https://uefi.org/uefi)
+
+## ACPI
+ - [ACPI Specification](https://uefi.org/specifications)
+ - [Related documents](https://uefi.org/acpi)https://uefi.org/acpi
