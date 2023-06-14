@@ -3,13 +3,11 @@ This is intended to be a listing of all the specifications used during the const
 
 It is possible for these links or the text regarding versions to become out of date, any problems found don't hesitate to open a PR or raise an issue.
 
-* AArch64
-  * [Arm Architecture Reference Manual for A-profile architecture](https://developer.arm.com/documentation/ddi0487/ja/?lang=en)
+* AArch64 - [Arm Architecture Reference Manual for A-profile architecture](https://developer.arm.com/documentation/ddi0487/ja/?lang=en)
 * ACPI
   * [ACPI Specification](https://uefi.org/specifications)
   * [Related documents](https://uefi.org/acpi)
-* RISC-V
-  * [Unprivileged and Privileged ISA](https://github.com/riscv/riscv-isa-manual)
+* RISC-V - [Unprivileged and Privileged ISA](https://github.com/riscv/riscv-isa-manual)
 * System-V ABI
   * [Generic ABI (gABI)](https://www.sco.com/developers/devspecs/) latest at time of writing: Edition 4.1
   * [Generic ABI (gABI) updates](https://www.sco.com/developers/gabi/) updates to chapter 4 and 5 of the above. Latest at time of writing: DRAFT 10 June 2013 (under the "Latest (in progress) snapshot" link)
