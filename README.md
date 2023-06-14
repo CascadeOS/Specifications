@@ -3,6 +3,8 @@ This is intended to be a listing of all the specifications used during the const
 
 It is possible for these links or the text regarding versions to become out of date, any problems found don't hesitate to open a PR or raise an issue.
 
+---
+
 * AArch64 - [Arm Architecture Reference Manual for A-profile architecture](https://developer.arm.com/documentation/ddi0487/ja/?lang=en)
 * ACPI
   * [ACPI Specification](https://uefi.org/specifications)
