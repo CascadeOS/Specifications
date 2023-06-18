@@ -17,7 +17,7 @@ It is possible for these links or the text regarding versions to become out of d
   * [AArch64 psABI](https://github.com/ARM-software/abi-aa)
   * [RISC-V psABI](https://github.com/riscv-non-isa/riscv-elf-psabi-doc)
   * [x86-64 psABI](https://gitlab.com/x86-psABIs/x86-64-ABI)
-* UEFI
+* UEFI/GPT
   * [UEFI Specification](https://uefi.org/specifications)
   * [Related documents](https://uefi.org/uefi)
 * x86-64
