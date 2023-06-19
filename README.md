@@ -9,7 +9,10 @@ It is possible for these links or the text regarding versions to become out of d
 * ACPI
   * [ACPI Specification](https://uefi.org/specifications)
   * [Related documents](https://uefi.org/acpi)
-* Ext2 - [ext2-doc](https://www.nongnu.org/ext2-doc/)
+* Ext
+  * [ext2-doc](https://www.nongnu.org/ext2-doc/)
+  * [Linux Ext4 documentation](https://www.kernel.org/doc/html/latest/filesystems/ext4/index.html) (Is this really GPLed? if so we can't use it)
+  * [Ext4 wiki](https://ext4.wiki.kernel.org/index.php/Main_Page)
 * Limine - [Limine Boot Protocol](https://github.com/limine-bootloader/limine/blob/v4.x-branch/PROTOCOL.md)
 * RISC-V - [Unprivileged and Privileged ISA](https://github.com/riscv/riscv-isa-manual)
 * System-V ABI
