@@ -6,9 +6,10 @@ It is possible for these links or the text regarding versions to become out of d
 ---
 
 * AArch64 - [Arm Architecture Reference Manual for A-profile architecture](https://developer.arm.com/documentation/ddi0487/ja/?lang=en)
-* ACPI
-  * [ACPI Specification](https://uefi.org/specifications)
-  * [Related documents](https://uefi.org/acpi)
+* ACPI/UEFI/GPT
+  * [Specifications](https://uefi.org/specifications) (GPT is specified in the UEFI spec) 
+  * [ACPI related documents](https://uefi.org/acpi)
+  * [UEFI Related documents](https://uefi.org/uefi)
 * Ext
   * [ext2-doc](https://www.nongnu.org/ext2-doc/)
   * [Linux Ext4 documentation](https://www.kernel.org/doc/html/latest/filesystems/ext4/index.html) (Is this really GPLed? if so we can't use it)
@@ -21,9 +22,6 @@ It is possible for these links or the text regarding versions to become out of d
   * [AArch64 psABI](https://github.com/ARM-software/abi-aa)
   * [RISC-V psABI](https://github.com/riscv-non-isa/riscv-elf-psabi-doc)
   * [x86-64 psABI](https://gitlab.com/x86-psABIs/x86-64-ABI)
-* UEFI/GPT
-  * [UEFI Specification](https://uefi.org/specifications)
-  * [Related documents](https://uefi.org/uefi)
 * x86-64
   * [AMD](https://www.amd.com/en/support/tech-docs?keyword=AMD64+Architecture+Programmer%27s+Manual) link is to a search as AMD don't provide an always up to date link to the documents
   * [Intel](https://www.intel.com/content/www/us/en/developer/articles/technical/intel-sdm.html)
