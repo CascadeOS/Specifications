@@ -1,5 +1,5 @@
 # Specifications
-This is intended to be a listing of all the specifications used during the construction of CascadeOS.
+This is intended to be a listing of all the specifications (and other useful documents) used during the construction of CascadeOS.
 
 It is possible for these links or the text regarding versions to become out of date, any problems found don't hesitate to open a PR or raise an issue.
 
@@ -14,6 +14,8 @@ It is possible for these links or the text regarding versions to become out of d
   * [ext2-doc](https://www.nongnu.org/ext2-doc/)
   * [Linux Ext4 documentation](https://www.kernel.org/doc/html/latest/filesystems/ext4/index.html) (Is this really GPLed? if so we can't use it)
   * [Ext4 wiki](https://ext4.wiki.kernel.org/index.php/Main_Page)
+* FAT32
+  * [Understanding FAT32](https://www.pjrc.com/tech/8051/ide/fat32.html)
 * Limine - [Limine Boot Protocol](https://github.com/limine-bootloader/limine/blob/v4.x-branch/PROTOCOL.md)
 * RISC-V - [Unprivileged and Privileged ISA](https://github.com/riscv/riscv-isa-manual)
 * System-V ABI
