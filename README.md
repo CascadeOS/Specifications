@@ -14,8 +14,7 @@ It is possible for these links or the text regarding versions to become out of d
   * [ext2-doc](https://www.nongnu.org/ext2-doc/)
   * [Linux Ext4 documentation](https://www.kernel.org/doc/html/latest/filesystems/ext4/index.html) (Is this really GPLed? if so we can't use it)
   * [Ext4 wiki](https://ext4.wiki.kernel.org/index.php/Main_Page)
-* FAT32
-  * [Understanding FAT32](https://www.pjrc.com/tech/8051/ide/fat32.html)
+* FAT32 - [Understanding FAT32](https://www.pjrc.com/tech/8051/ide/fat32.html)
 * Limine - [Limine Boot Protocol](https://github.com/limine-bootloader/limine/blob/v4.x-branch/PROTOCOL.md)
 * RISC-V - [Unprivileged and Privileged ISA](https://github.com/riscv/riscv-isa-manual)
 * System-V ABI
@@ -24,6 +23,7 @@ It is possible for these links or the text regarding versions to become out of d
   * [AArch64 psABI](https://github.com/ARM-software/abi-aa)
   * [RISC-V psABI](https://github.com/riscv-non-isa/riscv-elf-psabi-doc)
   * [x86-64 psABI](https://gitlab.com/x86-psABIs/x86-64-ABI)
+* UUID - [RFC 4122](https://datatracker.ietf.org/doc/html/rfc4122)
 * x86-64
   * [AMD](https://www.amd.com/en/support/tech-docs?keyword=AMD64+Architecture+Programmer%27s+Manual) link is to a search as AMD don't provide an always up to date link to the documents
   * [Intel](https://www.intel.com/content/www/us/en/developer/articles/technical/intel-sdm.html)
