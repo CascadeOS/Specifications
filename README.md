@@ -17,6 +17,7 @@ It is possible for these links or the text regarding versions to become out of d
 * FAT32
   * [Understanding FAT32](https://www.pjrc.com/tech/8051/ide/fat32.html)
   * [FAT: General Overview of On-Disk Format](https://www.win.tue.nl/~aeb/linux/fs/fat/fatgen103.pdf)
+  * [Design of the FAT file system](https://en.wikipedia.org/wiki/Design_of_the_FAT_file_system)
 * Limine - [Limine Boot Protocol](https://github.com/limine-bootloader/limine/blob/v4.x-branch/PROTOCOL.md)
 * RISC-V - [Unprivileged and Privileged ISA](https://github.com/riscv/riscv-isa-manual)
 * System-V ABI
