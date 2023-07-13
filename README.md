@@ -12,7 +12,7 @@ It is possible for these links or the text regarding versions to become out of d
   * [UEFI Related documents](https://uefi.org/uefi)
 * Ext
   * [ext2-doc](https://www.nongnu.org/ext2-doc/)
-  * [Linux Ext4 documentation](https://www.kernel.org/doc/html/latest/filesystems/ext4/index.html) (Is this really GPLed? if so we can't use it)
+  * [Linux Ext4 documentation](https://www.kernel.org/doc/html/latest/filesystems/ext4/index.html)
   * [Ext4 wiki](https://ext4.wiki.kernel.org/index.php/Main_Page)
   * https://ext4.wiki.kernel.org/index.php/Ext4_Disk_Layout
 * FAT32
